@@ -1,2 +1,2 @@
 # config
-configuration repository
+configuration repository to hold config files
