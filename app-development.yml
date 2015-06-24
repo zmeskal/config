@@ -1,2 +1,3 @@
 foo:
     bar: foobar
+key: 'this is something we have in development only'
